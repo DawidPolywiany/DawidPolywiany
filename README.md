@@ -1,5 +1,15 @@
-### Hi there 👋
+Hi, my name Dawid Polywiany!
+-
+**About me**:
+- Im live in **Poland**, "**Bydgoszcz**";
+- Im study in [**"Technikum Mechaniczne nr 10 im. Franciszka Siemiradzkiego"**](https://zsm1.bydgoszcz.pl/);
+- Im learning: **c++**, **python**, **unity**;
+- I posted 2 games on [**GooglePlay**](https://play.google.com/store/apps/developer?id=DPgameStudio): ([**Ninja Tower**](https://play.google.com/store/apps/details?id=com.DPgameStudio.NinjaTower)), ([**Perfect Precision**](https://play.google.com/store/apps/details?id=com.DPgameStudio.PerfectPrecision));
 
+**Contact me**:\
+<img src="/GmailIcon.png" width=20px/> **DawidPolyvjanyj@gmail.com**,\
+<img src="/TelegramIcon.png" width=20px/> [**Telegram**](https://t.me/DawidPolywiany),\
+<img src="/GooglePlayIcon.png" width=20px/> [**GooglePlay**](https://play.google.com/store/apps/developer?id=DPgameStudio)
 <!--
 **DawidPolywiany/DawidPolywiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

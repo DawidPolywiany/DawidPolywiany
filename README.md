@@ -4,7 +4,7 @@ Hi, my name Dawid Polywiany!
 - Im live in **Poland**, "**Bydgoszcz**";
 - Im study in [**"Technikum Mechaniczne nr 10 im. Franciszka Siemiradzkiego"**](https://zsm1.bydgoszcz.pl/);
 - Im learning: **c++**, **python**, **unity**;
-- I posted 2 games on [**GooglePlay**](https://play.google.com/store/apps/developer?id=DPgameStudio): ([**Perfect Precision**](https://play.google.com/store/apps/details?id=com.DPgameStudio.PerfectPrecision)), ([**Ninja Tower**](https://play.google.com/store/apps/details?id=com.DPgameStudio.NinjaTower));
+- I posted 2 games in [**GooglePlay**](https://play.google.com/store/apps/developer?id=DPgameStudio): ([**Perfect Precision**](https://play.google.com/store/apps/details?id=com.DPgameStudio.PerfectPrecision)), ([**Ninja Tower**](https://play.google.com/store/apps/details?id=com.DPgameStudio.NinjaTower));
 
 **Contact me**:\
 <img src="/GmailIcon.png" width=20px/> **DawidPolyvjanyj@gmail.com**,\
